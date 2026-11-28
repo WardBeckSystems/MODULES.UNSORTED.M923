@@ -15,7 +15,7 @@ Wiki page: [M923](../../../../PAGES/M923.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M923/SCHEMATICS/1997 - M923 - M920 - AUDIO - FUNCTIONAL (M923-F1).eps",
+ "file": "Modules/RENAISSANCE/M923/SCHEMATICS/1997 - M923 - M920 - AUDIO - FUNCTIONAL (M923-F1).eps",
  "sha256": "08a5efc3d97d5859f93a274bf22b68b84039c3960c8c0e637053f9ae696a764b",
  "kind": "module",
  "models": [
