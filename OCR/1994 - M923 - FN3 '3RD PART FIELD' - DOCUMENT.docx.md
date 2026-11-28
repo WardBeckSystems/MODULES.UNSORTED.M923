@@ -1,5 +1,5 @@
 # 1994 - M923 - FN3 '3RD PART FIELD' - DOCUMENT.docx
-Wiki page: [M923](../../../../PAGES/M923.md)
+Wiki page: [M923](../)
 
 
 - **Year:** 1994 (module estimate (month))

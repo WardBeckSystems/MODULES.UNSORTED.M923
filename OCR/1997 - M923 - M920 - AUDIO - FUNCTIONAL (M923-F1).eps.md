@@ -1,5 +1,5 @@
 # 1997 - M923 - M920 - AUDIO - FUNCTIONAL (M923-F1).eps
-Wiki page: [M923](../../../../PAGES/M923.md)
+Wiki page: [M923](../)
 
 
 - **Year:** 1997 (original file date 1997-12-03)

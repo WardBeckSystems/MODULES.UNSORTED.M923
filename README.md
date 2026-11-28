@@ -1,6 +1,6 @@
 # M923 · Renaissance
 
-Ward-Beck Systems M923, 1994|27. Wiki page: [M923 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M923.html)
+Ward-Beck Systems M923, 1994|27. Wiki page: [M923 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/)
 
 | Folder | What is in it | Files |
 |---|---|---|
